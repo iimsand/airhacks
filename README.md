@@ -16,8 +16,36 @@ Airhacks Meetup: https://www.meetup.com/airhacks
 
 Airhacks at Eventbrite: https://airhacks.eventbrite.com
 
-# links & resources
 
 
 
-https://www.sap.com/germany/products/spend-management/lksg.html?campaigncode=crm-ya22-int-1517074&source=ppc-de-google_ads-search-71700000106388556-58700008267749387-ism_ism-x-x-x&dfa=1&gad=1&gclid=CjwKCAjwyqWkBhBMEiwAp2yUFvUiqZ4ZyRlE6u-E2V0Y38JWtPaamjgac3dpdYPVhJLf17V2Mw11CRoCvX4QAvD_BwE&gclsrc=aw.ds
+# Links and Resources
+
+https://calculator.aws/
+
+https://github.com/AdamBien/aws-java-functionurl-cdk-plain
+
+https://github.com/AdamBien/aws-cdk-plain
+
+https://github.com/AdamBien/aws-lambda-cdk-plain
+
+https://github.com/AdamBien/aws-quarkus-lambda-cdk-plain
+
+https://www.youtube.com/playlist?list=PLxU9yM-_yPs_1nobQpIY0Qc1XuMsrDQIw
+
+https://aws.amazon.com/blogs/developer/lean-fast-and-oversized-aws-lambdas-on-jvm-amazon-corretto-java/
+
+https://airhacks.news (mailing list)
+
+https://airhacks.tv (live Q & A streaming)
+
+https://airhacks.fm (podcast)
+
+https://airhacks.io (video courses)
+
+https://www.meetup.com/airhacks
+
+http://airhacks.eventbrite.com/
+
+https://www.sap.com/germany/products/spend-management/lksg.html
+
