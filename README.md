@@ -74,3 +74,5 @@ https://docs.aws.amazon.com/apprunner/latest/dg/architecture.html
 https://aws.amazon.com/lightsail/pricing/
 
 https://quarkus.io/guides/security-oidc-bearer-token-authentication-tutorial
+
+https://levelup.gitconnected.com/securing-micro-services-in-quarkus-with-aws-cognito-387990c04100
