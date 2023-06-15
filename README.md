@@ -56,3 +56,5 @@ https://aws.amazon.com/blogs/aws/aws-control-tower-set-up-govern-a-multi-account
 https://redmonk.com/sogrady/2023/05/16/language-rankings-1-23/
 
 https://www.amazon.science/publications/using-lightweight-formal-methods-to-validate-a-key-value-storage-node-in-amazon-s3
+
+https://docs.aws.amazon.com/lambda/latest/dg/provisioned-concurrency.html
