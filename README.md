@@ -72,3 +72,5 @@ https://docs.aws.amazon.com/app-mesh/latest/userguide/getting-started-ecs.html
 https://docs.aws.amazon.com/apprunner/latest/dg/architecture.html
 
 https://aws.amazon.com/lightsail/pricing/
+
+https://quarkus.io/guides/security-oidc-bearer-token-authentication-tutorial
