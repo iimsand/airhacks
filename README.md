@@ -49,3 +49,6 @@ http://airhacks.eventbrite.com/
 
 https://www.sap.com/germany/products/spend-management/lksg.html
 
+
+
+https://aws.amazon.com/blogs/aws/aws-control-tower-set-up-govern-a-multi-account-aws-environment/
