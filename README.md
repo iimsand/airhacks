@@ -58,3 +58,5 @@ https://redmonk.com/sogrady/2023/05/16/language-rankings-1-23/
 https://www.amazon.science/publications/using-lightweight-formal-methods-to-validate-a-key-value-storage-node-in-amazon-s3
 
 https://docs.aws.amazon.com/lambda/latest/dg/provisioned-concurrency.html
+
+https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/private-content-restricting-access-to-s3.html
