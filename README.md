@@ -68,3 +68,5 @@ https://www.adam-bien.com/roller/abien/entry/accessing_aws_systems_manager_param
 https://chrome.google.com/webstore/detail/console-recorder-for-aws/ganlhgooidfbijjidcpkeaohjnkeicba
 
 https://docs.aws.amazon.com/app-mesh/latest/userguide/getting-started-ecs.html
+
+https://docs.aws.amazon.com/apprunner/latest/dg/architecture.html
