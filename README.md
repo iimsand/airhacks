@@ -18,3 +18,6 @@ Airhacks at Eventbrite: https://airhacks.eventbrite.com
 
 # links & resources
 
+
+
+https://www.sap.com/germany/products/spend-management/lksg.html?campaigncode=crm-ya22-int-1517074&source=ppc-de-google_ads-search-71700000106388556-58700008267749387-ism_ism-x-x-x&dfa=1&gad=1&gclid=CjwKCAjwyqWkBhBMEiwAp2yUFvUiqZ4ZyRlE6u-E2V0Y38JWtPaamjgac3dpdYPVhJLf17V2Mw11CRoCvX4QAvD_BwE&gclsrc=aw.ds
