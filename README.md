@@ -52,3 +52,5 @@ https://www.sap.com/germany/products/spend-management/lksg.html
 
 
 https://aws.amazon.com/blogs/aws/aws-control-tower-set-up-govern-a-multi-account-aws-environment/
+
+https://redmonk.com/sogrady/2023/05/16/language-rankings-1-23/
