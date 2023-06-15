@@ -70,3 +70,5 @@ https://chrome.google.com/webstore/detail/console-recorder-for-aws/ganlhgooidfbi
 https://docs.aws.amazon.com/app-mesh/latest/userguide/getting-started-ecs.html
 
 https://docs.aws.amazon.com/apprunner/latest/dg/architecture.html
+
+https://aws.amazon.com/lightsail/pricing/
