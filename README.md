@@ -66,3 +66,5 @@ https://awslabs.github.io/aws-lambda-powertools-java/utilities/parameters/
 https://www.adam-bien.com/roller/abien/entry/accessing_aws_systems_manager_parameter
 
 https://chrome.google.com/webstore/detail/console-recorder-for-aws/ganlhgooidfbijjidcpkeaohjnkeicba
+
+https://docs.aws.amazon.com/app-mesh/latest/userguide/getting-started-ecs.html
