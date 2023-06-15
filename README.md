@@ -60,3 +60,5 @@ https://www.amazon.science/publications/using-lightweight-formal-methods-to-vali
 https://docs.aws.amazon.com/lambda/latest/dg/provisioned-concurrency.html
 
 https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/private-content-restricting-access-to-s3.html
+
+https://awslabs.github.io/aws-lambda-powertools-java/utilities/parameters/
