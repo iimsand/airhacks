@@ -62,3 +62,5 @@ https://docs.aws.amazon.com/lambda/latest/dg/provisioned-concurrency.html
 https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/private-content-restricting-access-to-s3.html
 
 https://awslabs.github.io/aws-lambda-powertools-java/utilities/parameters/
+
+https://www.adam-bien.com/roller/abien/entry/accessing_aws_systems_manager_parameter
