@@ -34,8 +34,9 @@ public class QuarkusLambda extends Construct {
             var version = setupSnapStart(this.function);
             this.function = createAlias(version);
         }
+        var filipeBucket = BucketCreator.create(this);
+        filipeBucket.grantRead(this.function);
     }
-
     Version setupSnapStart(IFunction function) {
         var defaultChild = this.function.getNode().getDefaultChild();
         if (defaultChild instanceof CfnFunction cfnFunction) {
